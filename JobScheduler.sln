@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobScheduler", "JobScheduler\JobScheduler.csproj", "{A556B35C-06C2-4AAA-B1D9-39F73DE98E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobScheduler.Tests", "JobScheduler.Tests\JobScheduler.Tests.csproj", "{9714B765-630E-4CAB-8942-6BCF009AFDE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A556B35C-06C2-4AAA-B1D9-39F73DE98E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A556B35C-06C2-4AAA-B1D9-39F73DE98E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A556B35C-06C2-4AAA-B1D9-39F73DE98E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A556B35C-06C2-4AAA-B1D9-39F73DE98E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9714B765-630E-4CAB-8942-6BCF009AFDE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9714B765-630E-4CAB-8942-6BCF009AFDE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9714B765-630E-4CAB-8942-6BCF009AFDE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9714B765-630E-4CAB-8942-6BCF009AFDE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D80F3E8-31B8-4EF0-B787-78A120E289E5}
+	EndGlobalSection
+EndGlobal
